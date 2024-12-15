@@ -13,8 +13,8 @@
         android:inputType="phone" />
 
     <Button
-        android:id="@+id/dial_button"
+        android:id="@+id/call_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Dial Number" />
+        android:text="Make Call" />
 </LinearLayout>
